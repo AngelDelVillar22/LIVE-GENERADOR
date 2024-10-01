@@ -34,7 +34,7 @@ print("")
 print("\033[1;32m Informacion de Termux")
 print("")
 time.sleep(1.6)
-print(" https://t.me/master_Angel_Delvillar")
+print("")
 print("")
 time.sleep(2.2)
 
