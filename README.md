@@ -16,7 +16,7 @@ pkg install python -y
 
 pkg install git -y
 
-git clone https://github.com/AngelDelVillar22/Live-Generator
+https://github.com/AngelDelVillar22/LIVE-GENERADOR.git
 
 cd Live-Generator
 
