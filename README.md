@@ -17,15 +17,15 @@ pkg install git -y
 
 https://github.com/AngelDelVillar22/LIVE-GENERADOR.git
 
-cd Live-Generator
+cd Live-Generador
 
 ls
 
-chmod 777 Live-Generator.py
+chmod 777 Live-Generador.py
 
 ls
 
-python Live-Generator.py
+python Live-Generador.py
 ```
 
 __Una vez en la interfax aparece un ejemplo de ejecución bastante sencillo.__
