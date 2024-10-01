@@ -31,7 +31,7 @@ def angeldelvillar ():
 Angel Del Villar()
 time.sleep(1.2)
 print("")
-print("\033[1;32m Informaticion de Termux")
+print("\033[1;32m Informacion de Termux")
 print("")
 time.sleep(1.6)
 print(" https://t.me/+eZc15Eln-lMzZmZh")
