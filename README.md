@@ -1,4 +1,4 @@
-# LIVE-GENERADOR
+# live-generador
 Script que genera live de tarjetas generadas de un bin funcional así obtendremos una suscripción más propensa a obtenerla
 ### Live-Generator
 
