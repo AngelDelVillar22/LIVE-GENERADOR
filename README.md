@@ -2,8 +2,7 @@
 Script que genera live de tarjetas generadas de un bin funcional así obtendremos una suscripción más propensa a obtenerla
 ### Live-Generator
 
-###### Esta es una herramienta creada en python cuya función es generar lives de bins mediante el mismo algoritmo de cualquier generador. Dicha herramienta fue creada con fines educativos e informativos, Scorpio28 no se responsabiliza por el mal uso
-
+###### Esta es una herramienta creada en python cuya función es generar lives de bins mediante el mismo algoritmo de cualquier generador. Dicha herramienta fue creada con fines educativos e informativos.
 ###### SALUDOS...
 
 
